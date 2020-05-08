@@ -42,6 +42,7 @@
 	text-decoration: none;
 	opacity: 0;
 	transition: opacity .3s ease-in-out;
+	text-align: left;
 }
 
 .card .plus {
